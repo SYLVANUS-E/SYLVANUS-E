@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sylvanus Elkana (SYLVANUS-E)</h1>
+<h1 align="center">Hi 👋, I'm Sylvanus Elkana </h1>
 <h3 align="center">⚡ A passionate Energy Engineer & Data Analyst from Morocco</h3>
 
 ---
