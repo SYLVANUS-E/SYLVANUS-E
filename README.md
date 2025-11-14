@@ -4,7 +4,7 @@
 ---
 
 ### 🔭 I’m currently working on  
-🌱 **[GreenCharge – Smart Energy Management System](#)**  
+ **[GreenCharge – Smart Energy Management System](#)**  
 💡 A project combining IoT, data analytics, and renewable energy for efficient power use.
 
 ### 👯 I’m looking to collaborate on  
@@ -17,7 +17,7 @@ Visualizing real-time energy data for decision-making and efficiency improvement
 
 ---
 
-### 🌱 I’m currently learning  
+###  I’m currently learning  
 - Python for Data Science  
 - SQL & Database Design  
 - Power BI & Data Visualization  
@@ -105,9 +105,8 @@ I believe data can make energy smarter 🌍🔋
 ---
 
 ## ☕ Support
-If you like my projects, you can support me here 💖  
-[Buy me a coffee](https://www.buymeacoffee.com/SYLVANUS-E)
+If you enjoy my projects, consider ⭐ starring or following me! 💖
+
 
 ---
-
-⭐️ *From [SYLVANUS-E](https://github.com/SYLVANUS-E)*
+ *From [SYLVANUS-E](https://github.com/SYLVANUS-E)*
